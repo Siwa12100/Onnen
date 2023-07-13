@@ -1,0 +1,14 @@
+name: Onnen
+version: ${version}
+main: dev.siwa.onnen.Onnen
+api-version: 1.19
+authors: [Siwa]
+description: First Siwa's plugin displaying in-game messages
+
+commands:
+  helloworld:
+    description: Commande affichant un message à tous les joueurs
+    permission:  helloworld.use
+  crier:
+    description: Commande pour broadcast ou s'envoyer un message un certains nombre de fois
+    permission: crier.use
