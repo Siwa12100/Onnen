@@ -1,6 +1,5 @@
 package dev.siwa.onnen;
-import dev.siwa.onnen.affichage.*;
-// test github V6 
+import dev.siwa.onnen.affichage.*; 
 
 import org.bukkit.plugin.java.JavaPlugin;
 
